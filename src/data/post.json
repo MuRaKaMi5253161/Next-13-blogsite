@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "next-13-blog",
+      "title": "next-13を学習中",
+      "content": "Im currently building a blog site using Next JS. The teachingmaterials are from Udemy and are very easy to understand. There areother materials I would like to study, but I will save them forfuture fun.",
+      "createdAt": "2099/99/99"
+    },
+    {
+      "id": "json-server",
+      "title": "Json-serverを使用",
+      "content": "Hey! Using React, Vue or Astro? Check my new project MistCSS to write 50% less code.",
+      "createdAt": "2099/99/99"
+    }
+  ]
+}
