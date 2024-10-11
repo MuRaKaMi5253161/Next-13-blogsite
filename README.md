@@ -7,4 +7,5 @@
 
 ### スキル
 - Next.Js(13)&TypeScript
+- TailwindCSS
 - supabase
